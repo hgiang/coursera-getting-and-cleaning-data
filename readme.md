@@ -1,7 +1,5 @@
----
-title: "Getting & Cleaning Data - Course Project"
-output: html_document
----
+Getting & Cleaning Data - Course Project
+----------------------------------------
 
 This document describes the process of run_analysis.R to clean data. The step as the followings:
 
